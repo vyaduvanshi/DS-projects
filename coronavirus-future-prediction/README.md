@@ -1,3 +1,4 @@
+# CORONAVIRUS FUTURE PREDICTION
 ### Last Updated: 30 August 2021
 
 The main project file is `coronavirus-future-prediction.ipynb`. A normal cell-by-cell run of the file should be good enough as long as the data sources don't alter the data itself. As for the normal daily updates of data, that should not pose a problem. All data imports are done via external sources, you only need the files to do a static run of the last updated date.
