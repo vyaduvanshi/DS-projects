@@ -6,7 +6,7 @@ To view/edit notebook:
 2. [View on nbviewer](https://nbviewer.jupyter.org/github/vyaduvanshi/ds-projects/blob/master/coronavirus-future-prediction/coronavirus-future-prediction.ipynb) (Does not render maps)
 3. [View/Edit on Kaggle]()
 4. [Edit on Google Colab](https://colab.research.google.com/drive/1XD3bK2NFmeRGfD9qnuDSkcgvNXRoziY1?usp=sharing)
-5. [Edit on Binder]() [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vyaduvanshi/ds-projects/HEAD?filepath=coronavirus-future-prediction%2Fcoronavirus-future-prediction.ipynb)
+5. [Edit on Binder](https://mybinder.org/v2/gh/vyaduvanshi/ds-projects/798d7311fed5ea38bf944bb8fa41a0f6bd1b7f87?urlpath=lab%2Ftree%2Fcoronavirus-future-prediction%2Fcoronavirus-future-prediction.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vyaduvanshi/ds-projects/HEAD?filepath=coronavirus-future-prediction%2Fcoronavirus-future-prediction.ipynb)
 
 The main project file is `coronavirus-future-prediction.ipynb`. A normal cell-by-cell run of the file should be good enough as long as the data sources don't alter the data itself. As for the normal daily updates of data, that should not pose a problem. All data imports are done via external sources, you only need the files to do a static run of the last updated date.
 
