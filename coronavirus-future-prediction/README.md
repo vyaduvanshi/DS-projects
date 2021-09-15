@@ -4,7 +4,7 @@
 To view/edit notebook:
 1. [View on Github Pages](https://vyaduvanshi.github.io/ds-projects/coronavirus-future-prediction/)
 2. [View on nbviewer](https://nbviewer.jupyter.org/github/vyaduvanshi/ds-projects/blob/master/coronavirus-future-prediction/coronavirus-future-prediction.ipynb) (Does not render maps)
-3. [View/Edit on Kaggle]()
+3. [View/Edit on Kaggle](https://www.kaggle.com/vyaduvanshi/the-longest-coronavirus-project-on-kaggle)
 4. [Edit on Google Colab](https://colab.research.google.com/drive/1XD3bK2NFmeRGfD9qnuDSkcgvNXRoziY1?usp=sharing)
 5. [Edit on Binder](https://mybinder.org/v2/gh/vyaduvanshi/ds-projects/798d7311fed5ea38bf944bb8fa41a0f6bd1b7f87?urlpath=lab%2Ftree%2Fcoronavirus-future-prediction%2Fcoronavirus-future-prediction.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vyaduvanshi/ds-projects/HEAD?filepath=coronavirus-future-prediction%2Fcoronavirus-future-prediction.ipynb)
 
